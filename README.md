@@ -17,13 +17,15 @@
 
 #### 인사말
 
-- AWSKRUG 운영진이자, 이랜드 시스템스에서 운영 중인 박상욱 님의 **AWS Community 소개**
+- AWSKRUG 운영진이자, 이랜드 시스템스에서 운영 중인 박상욱
+- **AWS Community 소개**
 
 
 
 #### 키노트
 
-- AWS 테크에반젤리스트, 윤석찬 님의 **AWS 전반적인 소개**
+- AWS 테크에반젤리스트, 윤석찬
+- **AWS 전반적인 소개**
   - 빠른 개발 환경 지원 기능
     - AWS Toolkit
     - Serverless Application Environment
@@ -54,4 +56,12 @@
         - 신뢰할 수 있는 중앙에서 운영하는 투명한 암호로 입증 가능한 불변 트랜잭션 로그를 제공하는 매니지드 원장 데이터베이스
       - **Amazon Managed Blockchain (Closed Beta)**
         - 확장 가능한 블록 체인 네트워크 생성 및 관리 서비스
-  - 
+  - **AI 플랫폼**
+    - Amazon SageMaker
+      - 손쉬운 기계 학습 모델 생성, 훈련 및 서비스 배포 완전 관리 서비스
+        - Jupyter Notebook 기반 서비스
+    - AWS DeepRacer
+      - 강화 학습을 통해 자율 주행이 가능한 작은 사이즈의 자동차 모형
+    - AWS DeepLens
+      - 이미지 인식을 돕는 디바이스
+    - 
