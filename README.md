@@ -106,5 +106,6 @@
   - 지그재그
 - 솔루션
   - [Amazon SageMaker Ground Truth](https://aws.amazon.com/ko/sagemaker/groundtruth/)
-- 
-
+    - 대규모 라벨링 작업을 여러 사람이 진행할 수 있는 인터페이스 제공
+    - Labeling Quility 유지 방법에 대해 고심
+    - 
