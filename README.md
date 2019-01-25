@@ -98,3 +98,13 @@
 
 
 
+
+
+### 데이터 라벨링 노가다는 이제 그만, Ground Truth
+
+- 소성운
+  - 지그재그
+- 솔루션
+  - [Amazon SageMaker Ground Truth](https://aws.amazon.com/ko/sagemaker/groundtruth/)
+- 
+
