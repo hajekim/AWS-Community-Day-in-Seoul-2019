@@ -50,8 +50,8 @@
     - 제조사
     - HR & 급여
     - 지원 솔루션
-      - Amazon Quantum Ledger Database
+      - **Amazon Quantum Ledger Database**
         - 신뢰할 수 있는 중앙에서 운영하는 투명한 암호로 입증 가능한 불변 트랜잭션 로그를 제공하는 매니지드 원장 데이터베이스
-      - Amazon Managed Blockchain (Closed Beta)
+      - **Amazon Managed Blockchain (Closed Beta)**
         - 확장 가능한 블록 체인 네트워크 생성 및 관리 서비스
   - 
