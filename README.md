@@ -108,4 +108,17 @@
   - [Amazon SageMaker Ground Truth](https://aws.amazon.com/ko/sagemaker/groundtruth/)
     - 대규모 라벨링 작업을 여러 사람이 진행할 수 있는 인터페이스 제공
     - Labeling Quility 유지 방법에 대해 고심
+
+
+
+### 마이크로서비스에서 서비스메시로 - AWS Cloud Mesh
+
+- 안주은
+- Mesh
+  - Network Traffic에 대한 Logical Boundary
+- Mesh의 구성요소
+  - Virtual Nodes
+  - Virtual-Router
+    - Traffic을 등록된 서비스와 연결된 Virtual Node로 Routing한다.
+  - Envoy
     - 
